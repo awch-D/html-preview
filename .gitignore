@@ -1,0 +1,7 @@
+/.jimu/
+/jimu-images/
+/assets/icons/*.tgz
+__pycache__/
+.DS_Store
+.env
+.env.*
